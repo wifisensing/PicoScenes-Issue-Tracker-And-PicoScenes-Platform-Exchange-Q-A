@@ -1,9 +1,11 @@
 # PicoScenes Issue Tracker（Support English and 中文）
 
 This repository, **holding NO code**, is a place for issues tracking.
+
 这个仓库，**没代码**，是个PicoScenes平台交流问答的地方！
 
 If you have any problems in using PicoScenes or have some suggestions, please issue it [here](https://gitlab.com/wifisensing/picoscenes-issue-tracker/issues).
+
 如果您在使用PicoScenes过程中有任何意见建议或遇到什么问题，请在[这里](https://gitlab.com/wifisensing/picoscenes-issue-tracker/issues)提出您的宝贵意见或问题。
 
 ## 想用中文提意见或建议？？ 没问题！
