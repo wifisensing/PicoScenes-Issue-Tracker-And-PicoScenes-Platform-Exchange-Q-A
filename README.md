@@ -1,4 +1,4 @@
-# PicoScenes Issue Tracker（Support English and 中文）
+# PicoScenes Issue Tracker（Support both English and 中文, Public Issue ONLY）
 
 This repository, **holding NO code**, is a place for issues tracking.
 
@@ -13,3 +13,7 @@ We do **NOT** accept confidential issue, public issue ONLY.
 ## 想用中文提意见或建议？？ 没问题！
 
 PicoScenes虽然努力做好国际化，但目前大约一半的用户仍然是国人，我们理应更好地服务中国用户。因此，您如果想用中文与我们交流，没问题！直接用中文提问就好，我们也用中文回复😁。
+
+## Don't forget to check the troubleshooting page
+
+[Troubleshooting](https://ps.zpj.io/troubleshooting.html) pages lists the most frequently encountered problems and solutions.
