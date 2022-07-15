@@ -16,4 +16,4 @@ PicoScenes虽然努力做好国际化，但目前大约一半的用户仍然是�
 
 ## Don't forget to check the troubleshooting page
 
-[Troubleshooting](https://ps.zpj.io/troubleshooting.html) pages lists the most frequently encountered problems and solutions.
+[Troubleshooting](https://ps.zpj.io/troubleshooting.html) page lists the most frequently encountered problems and solutions.
