@@ -1,4 +1,4 @@
-# PicoScenes Issue Tracker（Support both English and 中文, Public Issue ONLY）
+# PicoScenes Issue Tracker（Supports both English and 中文, Public Issue ONLY）
 
 This repository, **holding NO code**, is a place for issues tracking.
 
